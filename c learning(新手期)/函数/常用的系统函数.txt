@@ -1,0 +1,10 @@
+求开方   sqrt
+double sqrt(double x);//double表示返回值   sqrt为名字, double x为形参
+
+求x的绝对值
+int abs(int x)
+
+求x的绝对值
+double fabs(double x)
+
+机械工业出版社《turboc2.0实用大全》
