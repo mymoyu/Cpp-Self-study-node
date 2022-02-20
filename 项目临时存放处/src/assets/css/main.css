@@ -1,0 +1,6 @@
+/* 水平垂直居中 */
+.basic-layout {
+    @apply flex h-screen w-screen items-center place-content-center;
+    min-width: 800px;
+    font-family: "黑体";
+}
