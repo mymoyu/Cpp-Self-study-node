@@ -14,7 +14,7 @@
 
 网络字节序: network
 
-_ to_ _ : htons(主机序转网络序), htonl, ntohs(端口网络序转主机序), ntohl(int网络序转主机序)
+_ to_ _ : htons(主机序转网络序), htonl[二进制转网络序], ntohs(端口网络序转主机序), ntohl(int网络序转主机序)
 
 inet_ntop(int af, const void *src, char *dst, socklen_t size):   
 
