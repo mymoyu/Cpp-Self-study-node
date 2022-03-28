@@ -669,3 +669,6 @@ static void func_add(void)
 }
 ```
 
+关于IO多路复用select/poll/epoll的详细解释看视频:
+
+https://www.bilibili.com/video/BV1qJ411w7du?spm_id_from=333.337.search-card.all.click
