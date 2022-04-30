@@ -9,6 +9,7 @@
 .son{
     margin:auto;
     position:absolute;
+    上下左右都为0
 }
 ```
 
